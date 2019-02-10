@@ -1,0 +1,18 @@
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\FileSearch\FileSearch\obj\x86\Debug\FileSearch.FormFileSearch.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\FileSearch\FileSearch\obj\x86\Debug\FileSearch.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\FileSearch\FileSearch\obj\x86\Debug\FileSearch.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\FileSearch\FileSearch\obj\x86\Debug\FileSearch.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\FileSearch\FileSearch\obj\x86\Debug\FileSearch.pdb
+C:\Users\Ozzy\Downloads\FileSearch\FileSearch\bin\Debug\FileSearch.exe
+C:\Users\Ozzy\Downloads\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+C:\Users\Ozzy\Downloads\FileSearch\FileSearch\bin\Debug\MetroFramework.dll
+C:\Users\Ozzy\Downloads\FileSearch\FileSearch\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ozzy\Downloads\FileSearch\FileSearch\obj\x86\Debug\FileSearch.FormFileSearch.resources
+C:\Users\Ozzy\Downloads\FileSearch\FileSearch\obj\x86\Debug\FileSearch.Properties.Resources.resources
+C:\Users\Ozzy\Downloads\FileSearch\FileSearch\obj\x86\Debug\FileSearch.csproj.GenerateResource.cache
+C:\Users\Ozzy\Downloads\FileSearch\FileSearch\obj\x86\Debug\FileSearch.csproj.CoreCompileInputs.cache
+C:\Users\Ozzy\Downloads\FileSearch\FileSearch\obj\x86\Debug\FileSearch.csproj.CopyComplete
+C:\Users\Ozzy\Downloads\FileSearch\FileSearch\obj\x86\Debug\FileSearch.exe
+C:\Users\Ozzy\Downloads\FileSearch\FileSearch\obj\x86\Debug\FileSearch.pdb
